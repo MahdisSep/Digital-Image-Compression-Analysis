@@ -41,6 +41,7 @@ Apply bit-depth reduction (e.g., removing 1 to 7 bits) and display the compresse
 
 Plot the file size change as a function of the number of removed bits.
 
+```
 
 ## 📂 Project Structure
 
