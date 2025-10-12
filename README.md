@@ -41,6 +41,7 @@ Apply bit-depth reduction (e.g., removing 1 to 7 bits) and display the compresse
 
 Plot the file size change as a function of the number of removed bits.
 
+```
 📂 Project Structure
 File/Folder	Purpose
 notebooks/OpenCV1.ipynb	Main Code and Analysis: Contains all the Python/OpenCV logic and visual explanations.
@@ -51,7 +52,6 @@ src/	Placeholder for standalone Python script version.
 documentation/	Contains project reports or detailed findings.
 README.md	This documentation file.
 
-Export to Sheets
 💡 Key Concepts Analyzed
 Concept	Description
 Bit-Plane	A specific plane of the image that holds the i-th bit of every pixel value (e.g., the 8 
@@ -64,4 +64,3 @@ Quantization	The process of reducing the number of gray levels (e.g., from 256 t
  ) used to represent the image, directly linked to bit-depth reduction.
 Difference Image	The absolute difference between the original and compressed image, visually highlighting the information lost due to quantization.
 
-Export to Sheets
