@@ -57,6 +57,15 @@ Plot the file size change as a function of the number of removed bits.
 
 ---
 
+### Showcase
+
+![images](https://github.com/MahdisSep/Machine-Learning-Assignments/blob/main/HW4_CNN_and_Lightweight_Models/P2_MobileNetV1_Architecture/results/results1.png)
+![images](https://github.com/MahdisSep/Machine-Learning-Assignments/blob/main/HW4_CNN_and_Lightweight_Models/P2_MobileNetV1_Architecture/results/results2.png)
+![images](https://github.com/MahdisSep/Machine-Learning-Assignments/blob/main/HW4_CNN_and_Lightweight_Models/P2_MobileNetV1_Architecture/results/results3.png)
+![images](https://github.com/MahdisSep/Machine-Learning-Assignments/blob/main/HW4_CNN_and_Lightweight_Models/P2_MobileNetV1_Architecture/results/results3.png)
+
+-----
+
 ## 💡 Key Concepts Analyzed
 
 | Concept | Description |
@@ -64,3 +73,4 @@ Plot the file size change as a function of the number of removed bits.
 | **Bit-Plane** | A specific plane of the image that holds the $i$-th bit of every pixel value (e.g., the $8^{th}$ bit plane is the $2^7$ plane). |
 | **Quantization** | The process of reducing the number of gray levels (e.g., from 256 to $2^{8-N}$) used to represent the image, directly linked to bit-depth reduction. |
 | **Difference Image** | The absolute difference between the original and compressed image, visually highlighting the information lost due to quantization. |
+
