@@ -59,10 +59,11 @@ Plot the file size change as a function of the number of removed bits.
 
 ### Showcase
 
-![images](https://github.com/MahdisSep/Machine-Learning-Assignments/blob/main/HW4_CNN_and_Lightweight_Models/P2_MobileNetV1_Architecture/results/results1.png)
-![images](https://github.com/MahdisSep/Machine-Learning-Assignments/blob/main/HW4_CNN_and_Lightweight_Models/P2_MobileNetV1_Architecture/results/results2.png)
-![images](https://github.com/MahdisSep/Machine-Learning-Assignments/blob/main/HW4_CNN_and_Lightweight_Models/P2_MobileNetV1_Architecture/results/results3.png)
-![images](https://github.com/MahdisSep/Machine-Learning-Assignments/blob/main/HW4_CNN_and_Lightweight_Models/P2_MobileNetV1_Architecture/results/results3.png)
+![images](https://github.com/MahdisSep/Digital-Image-Compression-Analysis/blob/main/results/results1.png)
+![images](https://github.com/MahdisSep/Digital-Image-Compression-Analysis/blob/main/results/results2.png)
+![images](https://github.com/MahdisSep/Digital-Image-Compression-Analysis/blob/main/results/results3.png)
+![images](https://github.com/MahdisSep/Digital-Image-Compression-Analysis/blob/main/results/results4.png)
+![images](https://github.com/MahdisSep/Digital-Image-Compression-Analysis/blob/main/results/results5.png)
 
 -----
 
